@@ -93,8 +93,8 @@ Now I am going to replace my broken door stoppers, I hope this ones last longer 
 
 ## Resources
 * Door stopper design
-  * [OpenScad file](piece.scad)
-  * [STL file](piece.stl)
+  * [OpenScad file](wardrobe_door_stopper.scad)
+  * [STL file](wardrobe_door_stopper.stl)
 * Sofware
   * [OpenScad](https://www.openscad.org)
   * [OpenScad command cheatsheet](https://www.openscad.org/cheatsheet/)
