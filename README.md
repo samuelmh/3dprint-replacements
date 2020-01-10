@@ -7,4 +7,4 @@ The designs are 3d printable and fully functional.
 
 ## List of pieces
 
-* (Wardrobe door stopper](wardrobe_door_stopper) 2020-JAN-02
+* [Wardrobe door stopper](wardrobe_door_stopper) 2020-JAN-02
