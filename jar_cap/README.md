@@ -23,3 +23,5 @@ To solve it you can use a piece of kitchen paper or a cloth as a seal.
 ## Resources
 * [OpenScad file](jar_cap.scad)
 * [STL file](jar_cap.stl)
+* [Name in SVG format](asun.svg)
+* [Name in DXF format (for OpenScad)](asun.dxf)
