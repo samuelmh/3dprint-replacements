@@ -15,7 +15,7 @@ As I didn't have the requiered extra metalic pieces, I managed to design and pri
 ![](img/nut_n_bolt.jpg)
 
 
-##Printing parameters
+## Printing parameters
 
 * Cura profile: Super Quality 0.12mm
 * Layer height: 0.12mm
