@@ -1,4 +1,4 @@
-# Wardrobe door stopper
+# Jar cap
 
 2020-JAN-04, _Samuel M.H._
 
