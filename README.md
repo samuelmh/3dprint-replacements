@@ -13,3 +13,4 @@ The designs are 3d printable and fully functional.
 * [Nut and bolt for the Ender 3 filament guide](nut_bolt_filament_guide) 2020-JAN-24
 * [Support for a small electric motor (cassette)](support_motor_cassette) 2020-FEB-06
 * [Short knob](knob_short) 2020-MAR-06
+* [Hinge for a ping pong table](hinge_table_tennis_bar) 2020-MAY-24
