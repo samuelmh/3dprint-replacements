@@ -7,7 +7,7 @@
 Lets say I share the world with other people that don't take as much care as I do with my possesions. In this case, someone broke my old table tennis. I suppose it is the result of some unfortunate envents, you know: someone improperly folded the table, then other person tried to open it and didn't notice a bar was reversed, and of course didn't care when they heard a crack.
 ![](img/bar_side.jpg)
 
-Two more cracks, this person also didn't care and ended up with three broken hinges, a folded bar and of course, playin no-table tennis.
+Two more cracks, this person also didn't care and ended up with three broken hinges, a folded bar and of course, playing no-table tennis.
 
 ![](img/bar_front.jpg)
 
