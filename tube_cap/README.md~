@@ -1,0 +1,40 @@
+# A cap for a square-section tube
+
+2020-OCT-03, _Samuel M.H._
+
+
+## Description
+Few years ago I built a metal table with rectangular tubes. Though I was satisfied with the result and I've used it as my primary workbench, I felt it was a little bit rough. So, I 've managed to design some caps to top off my first real soldering project with some bling and my mark.
+
+## The process
+As usual, the first step is to draw a wonderful design with all the specs.
+
+![](img/design.jpg)
+
+Then I built it with my FDM printer.
+
+![](img/piece.jpg)
+
+
+And this is the tue where it will go.
+
+![](img/tube_empty.jpg)
+
+
+Woops, I notice 
+
+![](img/piece_tuned.jpg)
+
+![](img/tube_piece.jpg)
+
+
+## Conclusion
+
+pins
+brittle 
+not satisfied
+
+
+## Resources
+* [OpenScad file](tube_cap.scad)
+* [STL file](tube_cap.stl)
