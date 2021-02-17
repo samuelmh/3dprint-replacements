@@ -56,15 +56,15 @@ The original misaligned rod also caused unnecessary stress on the piece, affecti
 
 The rod is solid.
 
-![](img/cura_rod_01.png)
+![](img/cura_rod_01.jpg)
 
 The rod section is solid in the semi-circular reinforcement.
 
-![](img/cura_rod_02.png)
+![](img/cura_rod_02.jpg)
 
 The rod section reaches the top of the button and aims for the center.
 
-![](img/cura_rod_03.png)
+![](img/cura_rod_03.jpg)
 
 
 ## Result
