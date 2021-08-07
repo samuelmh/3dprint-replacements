@@ -19,8 +19,8 @@ I have no intention to violate any intellectual property or to get any profit at
 These are the themes I've already created. Feel free to contribute.
 
 * [epsmith](themes/epsmith), a bug-based theme.
-* [dragon_ball-bad](themes/dragon_ball-good), a Dragon Ball theme with the good guys.
-* [dragon_ball-good](themes/dragon_ball-good), a Dragon Ball theme with the villains.
+* [dragon_ball-good](themes/dragon_ball-good), a Dragon Ball theme with the good guys.
+* [dragon_ball-bad](themes/dragon_ball-bad), a Dragon Ball theme with the villains.
 
 
 
