@@ -16,3 +16,4 @@ The designs are 3d printable and fully functional.
 * [Hinge for a ping pong table](hinge_table_tennis_bar) 2020-MAY-24
 * [Cap for rectangular secion tube](tube_cap) 2020-OCT-03
 * [Buttons for the flush mechanism of a toilet tank](wc_buttons) 2021-FEB-15
+* [Custom pieces for Hive (game)](hive) 2021-JUN-13

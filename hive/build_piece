@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# AUTHOR: Samuel M.H. <samuel.mh@gmail.com>
+# DESCRIPTION:
+#   Build a piece.
+#   $1: input, path to the PNG image
+#   $2: output, path to the STL file 
+#   $3: rotation of the piece, where to put the vertex (0-side, 1-top).
+#
+# TODO: fix use of eval :( 
+
+IMG_SIZE=`file $1 |awk -F, '{print $2}'|awk -Fx '{gsub(" +",""); print($1)}'`
+
+eval "openscad \
+    -o $2 \
+    -D 'IMG_PATH=\"$1\"' \
+    -D 'IMG_SIZE=$IMG_SIZE' \
+    -D 'PIECE_ROTATION=$3' \
+    piece.scad"

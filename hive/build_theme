@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# AUTHOR: Samuel M.H. <samuel.mh@gmail.com>
+# DESCRIPTION:
+#   Build a piece.
+#   $1: name of the theme, MUST have a "img" subdirectory.
+ 
+
+# Basic checks
+
+if [[ ! -d "themes/$1" ]]; then
+    echo -e "Theme $1 does not exist."
+    exit
+fi
+
+if [[ -d "themes/$1/stl" ]]; then
+    echo -e "There is a stl directory in the theme, remove it."
+    exit
+else
+    mkdir themes/$1/stl
+fi
+ 
+
+# Generate STL models
+for IMG_PATH in `ls themes/$1/img/*.png`; do
+    NAME=`basename -s .png $IMG_PATH`
+    PIECE_PATH="themes/$1/stl/$NAME.stl"
+    if [[ "$NAME" == *_1 ]]; then
+        PIECE_ROTATION=1
+    else
+        PIECE_ROTATION=0
+    fi
+    echo -e "\nBuilding: $NAME"
+    echo -e "\tImage: $IMG_PATH"
+    echo -e "\tRotated: $PIECE_ROTATION"
+    echo -e "\tModel: $PIECE_PATH"
+    eval "./build_piece $IMG_PATH $PIECE_PATH $PIECE_ROTATION"
+done
+
+
