@@ -7,6 +7,7 @@ The designs are 3d printable and fully functional.
 
 ## List of pieces
 
+* [Door magnet for a cupboard/water boiler](cupboard_door_magnet) 2025-FEB
 * [Ring for the lock mechanism of a car door](car_door_lock_ring) 2022-SEP-25
 * [Custom pieces for Hive (game)](hive) 2021-JUN-13
 * [Buttons for the flush mechanism of a toilet tank](wc_buttons) 2021-FEB-15
